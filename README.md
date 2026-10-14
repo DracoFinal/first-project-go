@@ -8,3 +8,7 @@ Execute o arquivo `main.go`:
 ```bash
 go run .\main.go
 ```
+
+# LICENSE
+
+Veja mais em [LICENSE](LICENSE)
